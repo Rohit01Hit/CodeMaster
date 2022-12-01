@@ -87,7 +87,7 @@ div{
     padding:0px;
     width:100%;
     height:100vh;
-    background-image:url(https://github.com/Rohit01Hit/CodeMaster/blob/main/main.gif);
+    background-image:url(/main.gif);
     background-position: center;
     background-size: cover;
 }
